@@ -1,4 +1,4 @@
-# HISTORIA DE ESPAÑA DE LA EDAD MEDIA - LA PENÍNSULA IBÉRICA DE LOS SIGLOS XI A XV
+# HISTORIA DE ESPAÑA DE LA EDAD MEDIA \* LA PENÍNSULA IBÉRICA DE LOS SIGLOS XI A XV
 
 # 1. LA DECADENCIA POLÍTICA Y TERRITORIAL DE AL-ÁNDALUS (1031-1492)
 
@@ -10,7 +10,7 @@ Durante esta época, la evolución de al-Ándalus pasó por tres periodos: los r
 
 ---
 
-### Los reinos de taifas (1031-1085)
+### Los reinos de taifas (1031-1090)
 
 Cada reino taifa comprendía una ciudad principal y el territorio de alrededor, y estuvo dominado por un determinado grupo étnico:
 
@@ -20,25 +20,27 @@ Cada reino taifa comprendía una ciudad principal y el territorio de alrededor, 
 
 Los estados cristianos del norte aprovecharon su debilidad, primero, para cobrarles tributos o parias a cambio de la paz; y, luego, para atacarlos. Así, Alfonso VI de León conquistó Toledo (1085).
 
+Las taifas estaban dominadas según el caso, por árabes, bereberes o musulmanes.
+
 ---
 
-### Los almorávides (1086-1144)
+### Los almorávides (1090-1145)
 
-Tras la conquista de Toledo, temiendo desaparecer, los reyes de las taifas pidieron ayuda a los almorávides, bereberes nómadas que a principios del siglo XI habían formado un gran imperio en el norte de África, con capital en Marrakech.
+Tras la conquista de Toledo, los reyes de las taifas pidieron ayuda a los almorávides, bereberes nómadas que a principios del siglo XI habían formado un gran imperio en el norte de África, con capital en Marrakech.
 
 Los almorávides entraron en la Península en 1086 y, ese mismo año, derrotaron al ejército de Alfonso VI de León en la batalla de Sagrajas.
 
-Después, impusieron su dominio en al-Ándalus, que incorporaron a su imperio africano, e implantaron un fuerte radicalismo religioso, persiguiendo a los mozárabes y a los judíos.
+Después, impusieron su dominio en al-Ándalus, que incorporaron a su imperio africano, e implantaron un fuerte radicalismo religioso.
 
 En 1145, se desintegraron en los llamados **segundos reinos de taifas**.
 
 ---
 
-### Los almohades (1147-1224)
+### Los almohades (1147-1238)
 
-Los almohades, tras conquistar Marrakech en 1147, sustituyeron a los almorávides en el norte de África. Penetraron en la Península ese mismo año, aunque no consiguieron dominar todo el territorio andalusí hasta 1172, en el que implantaron un mayor radicalismo religioso.
+Los almohades, sustituyeron a los almorávides en el norte de África. Penetraron en la Península ese mismo año, aunque no consiguieron dominar todo el territorio andalusí hasta 1172, en el que implantaron un mayor radicalismo religioso.
 
-En un principio, los almohades paralizaron las conquistas cristianas al derrotar a Alfonso VIII de Castilla en **Alarcos** (1195). Pero después, fueron derrotados en la batalla de las **Navas de Tolosa** (1212), que permitió el avance cristiano por el valle del Guadalquivir.
+Los almohades paralizaron las conquistas cristianas en **Alarcos** (1195). Pero después, fueron derrotados en la batalla de las **Navas de Tolosa** (1212), que permitió el avance cristiano por el valle del Guadalquivir.
 
 Desde ese momento, el poderío almohade decayó. Finalmente, los almohades fueron expulsados al norte de África, y al-Ándalus se desintegró en 1224 en los **terceros reinos de taifas**, que fueron conquistados progresivamente por los cristianos.
 
@@ -48,39 +50,21 @@ Desde 1238, y hasta su desaparición en 1492, el territorio andalusí quedó red
 
 ### La evolución artística
 
-- El **arte de los primeros reinos de taifas** se caracterizó por el empleo de materiales pobres, como el ladrillo; el uso del yeso en revestimientos decorativos; y la utilización de arcos muy variados, como mixtilíneos y de herradura apuntada. Las realizaciones artísticas principales de este periodo fueron el **palacio de la Aljafería de Zaragoza**, con una rica decoración; y la **alcazaba de Málaga**, una fortificación palaciega donde residían los reyes y los gobernadores.
-
-- Los **almorávides** apenas dejaron manifestaciones artísticas en la Península. La más destacada es el castillo de Monteagudo, en Murcia.
-
-- Los **almohades** impulsaron una arquitectura sencilla y austera. Sus realizaciones artísticas principales fueron la **Giralda de Sevilla**, alminar de la mezquita mayor de la ciudad decorada con la típica sebka o red de rombos almohade, y la **Torre del Oro**, edificio defensivo poligonal, rematado en almenas, situado a orillas del Guadalquivir.
+- Los **almohades**. Arquitectura sencilla y austera. Realizaciones artísticas: la **Giralda de Sevilla** y la **Torre del Oro**.
 
 ---
 
-## 1.2. El Reino nazarí de Granada.
+## 1.2. El Reino nazarí de Granada (1238-1492)
 
 El reino nazarí de Granada, formado en 1238, fue el único reino musulmán que pervivió en la Península en la Baja Edad Media.
 
 Su supervivencia hasta 1492 se debió a distintas **circunstancias favorables**. Así, su situación geográfica facilitó que las montañas de Sierra Nevada actuaran como una muralla natural de protección; su apertura al Mediterráneo favoreció el apoyo de los musulmanes del norte de África y un floreciente comercio; y la diplomacia se utilizó para comprar la paz a Castilla, a cambio del pago de tributos o parias.
 
-Los **conflictos políticos** fueron constantes en el reino nazarí durante toda su historia. Estos fueron aprovechados por los cristianos para ir conquistando pequeños territorios.
-
-La **economía** nazarí, en cambio, alcanzó una gran prosperidad. Se basó en la extensión del regadío; la explotación minera; la artesanía textil, en la que la seda jugó un papel destacado, y el comercio con el África musulmana y los reinos cristianos peninsulares y europeos.
-
 ---
 
 ### El arte nazarí
 
-En este periodo, la principal obra arquitectónica fue la **Alhambra** de Granada, una fortaleza palacio que recibe su nombre del color rojizo de sus muros. Consta de varias partes.
-
-- La **alcazaba**, realizada en el siglo XIII por Alhamar, el fundador de la dinastía nazarí, es un recinto fortificado donde se localizaba la guarnición militar. Consta de murallas y torres defensivas, como la torre del Homenaje y la torre de la Vela. La alcazaba conectaba con el **Generalife**, finca de recreo con jardines edificada por Muhammad II.
-
-- La **Casa Real**, realizada en el siglo XIV, incluye dos palacios reales encargados por Yusuf I y Mohamed V. Construidos con materiales pobres, tienen paredes decoradas con cerámica y paneles de yeso, y techumbres de madera o de mocárabes. Los palacios constaban de dos cuartos o conjunto de habitaciones en torno a patios, con fuentes y jardines.
-
-• El **Cuarto de Comares** era la parte pública. Sus dependencias se organizaban en torno al patio de los Arrayanes, destacando la sala para administrar justicia, o Mexuar, y el salón de Embajadores.
-
-• El **Cuarto de los Leones** era la parte privada. Se disponía en torno al patio de los Leones, y encerraba el harén y los aposentos privados del califa.
-
-- El conjunto se completaba con una **ciudad palatina**, o barrio administrativo con casas, mezquitas, baños públicos y cementerio; y se rodeaba por un **recinto amurallado**, comunicado con el exterior a través de grandes puertas como la puerta de la Justicia.
+En este periodo, la principal obra arquitectónica fue la **Alhambra** de Granada, una fortaleza palacio que recibe su nombre del color rojizo de sus muros.
 
 ---
 
@@ -134,8 +118,8 @@ A finales de la Edad Media, el mapa de la península Ibérica estaba formado por
 - La **Corona de Aragón** estaría compuesta por **Aragón, Cataluña, Valencia y Baleares**. Además, comenzará a tener una importante **expansión por el Mediterráneo, haciéndose con Cerdeña, Sicilia** y, en el siglo XV, **Nápoles**.
 
     <p align="center">
-        <img src="images/corona_aragon_sigloxiii_xv.png" alt="Corona de Aragón (siglos XIII - XV)"><br>
-        <em>Corona de Aragón (siglos XIII - XV)</em>
+        <img src="images/corona_aragon_sigloxiii_xv.png" alt="Corona de Aragón (siglos XIII * XV)"><br>
+        <em>Corona de Aragón (siglos XIII * XV)</em>
     </p>
 
 - **Navarra** no pudo proseguir su expansión territorial, al quedar bloqueada entre Aragón y Castilla y quedarse sin frontera con los musulmanes. A finales de la Edad Media y comienzos de la Edad Moderna habrá disputas por este reino entre **Castilla y Francia**.
