@@ -90,21 +90,33 @@ En este periodo, la principal obra arquitectónica fue la **Alhambra** de Granad
 
 Ya en el **siglo XII** hay que ver todo lo que sucede en la península Ibérica a partir de la **Corona de Castilla y la Corona de Aragón, que comandarán la conquista final de la Península** aprovechando los problemas internos de los musulmanes. Por su parte Navarra no tendrá cambios en sus fronteras. Así debemos destacar las siguientes conquistas: en primer lugar, Castilla, con Alfonso VI y la conquista de **Toledo** en 1085, y, posteriormente, **Cuenca** en 1177; por parte de Aragón, la conquista de **Zaragoza** en 1118.
 
-![La Reconquista](images/reconquista.png)
+<p align="center">
+  <img src="images/reconquista.png" alt="La Reconquista"><br>
+  <em>La Reconquista</em>
+</p>
 
 Tras su victoria en Alarcos en 1195, en 1211 los musulmanes amenazaban Toledo. Ante esta delicada situación, **Alfonso VIII**, rey de Castilla, no duda en otorgar el carácter de **cruzada** a la ofensiva a acometer ante los musulmanes, y así proteger Toledo y las fronteras del Tajo. Alfonso VIII solicita ayuda al resto de los reinos cristianos de la Península y al **papa Inocencio III**; de esta manera llegarán **cruzados** de toda Europa. El 19 de julio de **1212** salen de Toledo las huestes cristianas tomando distintos territorios hasta llegar al lugar en el que tendrá lugar la batalla que marcará un antes y un después en la Reconquista: **Las Navas de Tolosa**. Los cristianos vencerán, marcando el inicio de una expansión ya definitiva e inevitable de los reinos cristianos por toda la Península.
 
-![El avance cristiano entre los siglos XI y XV](images/avance_cristiano.png)
+<p align="center">
+  <img src="images/avance_cristiano.png" alt="El avance cristiano entre los siglos XI y XV"><br>
+  <em>El avance cristiano entre los siglos XI y XV</em>
+</p>
 
 Tras las Navas de Tolosa, Castilla y Aragón siguen avanzando y conquistando la Península:
 
 Es con **Fernando III** el Santo cuando **Castilla** lidere el avance por **Andalucía**: se van a conquistar Córdoba (1236), Murcia (1243), Jaén (1246) o Sevilla (1248). El sucesor de Fernando III será **Alfonso X el Sabio**, uno de los reyes más importantes del periodo medieval; con él se conquista Cádiz. Por tanto, en torno al 1270, sólo quedaba en poder de los musulmanes el reino de Granada (a mediados del siguiente siglo se toma Algeciras).
 
-![El avance cristiano Fernando III y Alfonso X el Sabio](images/fernandoiii_alfonsox.png)
+<p align="center">
+  <img src="images/fernandoiii_alfonsox.png" alt="El avance cristiano Fernando III y Alfonso X el Sabio"><br>
+  <em>El avance cristiano Fernando III y Alfonso X el Sabio</em>
+</p>
 
 Respecto a **Aragón**, es con el reinado de **Jaime I** cuando se van a dar una serie de victorias importantes en la década de 1230, que supondrán la conquista de **Baleares y Valencia**. Respecto a Murcia, fueron los castellanos quienes lograron su reconquista; pero Aragón alegó sus derechos sobre este territorio. La solución llegó por vía diplomática: Castilla ocupó la mayor parte del reino, pero la zona alicantina se incorporó a la Corona de Aragón.
 
-![El avance cristiano Jaime I](images/jaimei.png)
+<p align="center">
+  <img src="images/jaimei.png" alt="El avance cristiano Jaime I"><br>
+  <em>El avance cristiano Jaime I</em>
+</p>
 
 ---
 
@@ -114,11 +126,17 @@ A finales de la Edad Media, el mapa de la península Ibérica estaba formado por
 
 - **Fernando III**, para la **Corona de Castilla, unió en un solo reino Castilla y León en 1230**. Castilla **comprendería también Extremadura, toda Andalucía (a partir de 1492)** y Murcia. Además, a lo largo de la Baja Edad Media Castilla comenzaría la **conquista de las Canarias** (Lanzarote, Fuerteventura, la Gomera y el Hierro); más tarde se haría con **Gibraltar (1462)**.
 
-![Los cinco reinos independientes de la península](images/los_cinco_reinos_independientes.png)
+    <p align="center">
+        <img src="images/los_cinco_reinos_independientes.png" alt="Los cinco reinos independientes de la península"><br>
+        <em>Los cinco reinos independientes de la península</em>
+    </p>
 
 - La **Corona de Aragón** estaría compuesta por **Aragón, Cataluña, Valencia y Baleares**. Además, comenzará a tener una importante **expansión por el Mediterráneo, haciéndose con Cerdeña, Sicilia** y, en el siglo XV, **Nápoles**.
 
-![Corona de Aragón (siglox XIII - XV)](images/corona_aragon_sigloxiii_xv.png)
+    <p align="center">
+        <img src="images/corona_aragon_sigloxiii_xv.png" alt="Corona de Aragón (siglox XIII - XV)"><br>
+        <em>Corona de Aragón (siglox XIII - XV)</em>
+    </p>
 
 - **Navarra** no pudo proseguir su expansión territorial, al quedar bloqueada entre Aragón y Castilla y quedarse sin frontera con los musulmanes. A finales de la Edad Media y comienzos de la Edad Moderna habrá disputas por este reino entre **Castilla y Francia**.
 
@@ -141,7 +159,10 @@ Posteriormente, para los valles del Duero, del Tajo y del Ebro se acudió a la *
 
 En la zona centro-este de España, principalmente en Castilla-La Mancha y el interior de Valencia, la repoblación se encomendó a las **órdenes militares**. En estas zonas, fronterizas, peligrosas y de escasa población, las órdenes militares, formadas por **monjes-guerreros**, recibieron extensos territorios, **encomiendas** (por lo que al frente de las cuales estaba un caballero de la orden con el cargo de **comendador**). A cambio, debían defender el territorio asignado y fomentar su poblamiento.
 
-![Las órdenes militares](images/ordenes_militares.png)
+<p align="center">
+  <img src="images/ordenes_militares.png" alt="Las órdenes militares"><br>
+  <em>Las órdenes militares</em>
+</p>
 
 Por último, en Andalucía, Murcia, la costa valenciana y las islas Baleares, conquistadas por los cristianos más tarde, se empleó el **sistema del repartimiento**; es decir, el territorio se repartió de forma proporcional a la participación en la conquista. Así, los nobles recibieron grandes propiedades, y las gentes del común, pequeños lotes de tierra.
 
@@ -155,11 +176,17 @@ El gobierno de los reinos cristianos peninsulares recayó en **reyes**. Estos te
 
 Para gobernar los territorios el rey se apoyó del **Consejo Real**, que estaba formado por algunos miembros del clero (obispos, órdenes militares) y de la nobleza. A partir de finales del **siglo XII en León (primer ejemplo de parlamentarismo de Europa occidental)**, y en el siglo XIII en los demás reinos peninsulares, los reyes incorporaron a este Consejo a los burgueses ricos designados por las ciudades: nacían las **Cortes, asambleas formadas por representantes de los tres estamentos**. La función de las Cortes era discutir y votar las peticiones económicas que realizaba el rey (dinero para campañas militares o aprobación de un nuevo impuesto); a cambio; el rey se comprometía a tener en cuenta las peticiones de los diferentes estamentos.
 
-![El rey Jaime I preside las Cortes en Cataluña (1242)](images/jamiei_cortes_cataluna.png)
+<p align="center">
+  <img src="images/jamiei_cortes_cataluna.png" alt="El rey Jaime I preside las Cortes en Cataluña (1242)"><br>
+  <em>El rey Jaime I preside las Cortes en Cataluña (1242)</em>
+</p>
 
 Por último, **la autoridad del rey de Castilla siempre fue mayor que la de Aragón**. Castilla estaba formada por un sólo reino; mientras que Aragón no, ya que era una **unión de reinos** (Cataluña, Valencia, Baleares, Aragón), por eso el rey se veía obligado a tener la aprobación de las Cortes de cada uno de estos territorios (a excepción de Baleares, que no tenía Cortes). Es lo que se conoce como **pactismo**.
 
-![Alfonso X el Sabio](images/alfonso_x_el_sabio.png)
+<p align="center">
+  <img src="images/alfonso_x_el_sabio.png" alt="Alfonso X el Sabio"><br>
+  <em>Alfonso X el Sabio</em>
+</p>
 
 En conclusión, a diferencia de las Cortes actuales, estos primeros parlamentos no tenían capacidad de crear y aprobar leyes o de controlar la gestión del gobernante.
 
@@ -171,15 +198,24 @@ En los reinos cristianos peninsulares se impuso pronto la **sociedad estamental*
 
 **La nobleza y el clero constituían los estamentos privilegiados**. Como tales, disfrutaban de privilegios (no trabajar, no pagar impuestos, ser juzgados por sus propias leyes). No obstante, estos dos grupos no eran homogéneos, teniéndose que diferenciar entre alta y baja nobleza, así como alto y bajo clero. Las diferencias de riqueza marcaban estas diferencias internas.
 
-![Los estementos privilegiados](images/estamentos_privilegiados.png)
+<p align="center">
+  <img src="images/estamentos_privilegiados.png" alt="Los estementos privilegiados"><br>
+  <em>Los estementos privilegiados</em>
+</p>
 
 En los **no privilegiados**, los **campesinos** eran, sin duda, el sector mayoritario; trabajaban las tierras, por lo general, ajenas. Tenían, por ello, una gran dependencia de la nobleza y clero, propietarios de las tierras. En la Edad Media protagonizaron importantes **revueltas**.
 
-![Los estementos no privilegiados](images/estamentos_no_privilegiados.png)
+<p align="center">
+  <img src="images/estamentos_no_privilegiados.png" alt="Los estementos no privilegiados"><br>
+  <em>Los estementos no privilegiados</em>
+</p>
 
 También entre el sector no privilegiado encontramos a los distintos **grupos sociales que poblaban las ciudades**: aquí encontramos un grupo que, al ser rico, vivía en condiciones similares a la nobleza, ya que eran **dueños de los gremios o grandes rebaños**. Luego, existía un grupo intermedio formado por **pequeños comerciantes** y, finalmente, los **asalariados**, que trabajaban en unas condiciones que rozaban la miseria.
 
-![Los bordadores](images/bordadores.png)
+<p align="center">
+  <img src="images/bordadores.png" alt="Los bordadores"><br>
+  <em>Los bordadores</em>
+</p>
 
 Por último, tenemos a los **marginados** de la sociedad **(mendigos, gentes sin oficio, etc.)**, que se asentaban, sobre todo, en las ciudades. Y no podemos olvidarnos de las minorías religiosas, en donde encontramos a la **población no cristiana**:
 
@@ -187,6 +223,7 @@ Por último, tenemos a los **marginados** de la sociedad **(mendigos, gentes sin
 
 • **También encontramos a los musulmanes que vivían en territorio cristiano: los mudéjares**. Vivían en morerías y se dedicaban al trabajo de la tierra o a la artesanía, aunque es cierto que destacaron importantes especialistas en el estilo artístico mudéjar (arquitectos).
 
-![Los judios y mudéjares](images/judios_mudejares.png)
-
----
+<p align="center">
+  <img src="images/judios_mudejares.png" alt="Los judios y mudéjares"><br>
+  <em>Los judios y mudéjares</em>
+</p>
