@@ -94,6 +94,8 @@ Ya en el **siglo XII** hay que ver todo lo que sucede en la península Ibérica 
 
 Tras su victoria en Alarcos en 1195, en 1211 los musulmanes amenazaban Toledo. Ante esta delicada situación, **Alfonso VIII**, rey de Castilla, no duda en otorgar el carácter de **cruzada** a la ofensiva a acometer ante los musulmanes, y así proteger Toledo y las fronteras del Tajo. Alfonso VIII solicita ayuda al resto de los reinos cristianos de la Península y al **papa Inocencio III**; de esta manera llegarán **cruzados** de toda Europa. El 19 de julio de **1212** salen de Toledo las huestes cristianas tomando distintos territorios hasta llegar al lugar en el que tendrá lugar la batalla que marcará un antes y un después en la Reconquista: **Las Navas de Tolosa**. Los cristianos vencerán, marcando el inicio de una expansión ya definitiva e inevitable de los reinos cristianos por toda la Península.
 
+![El avance cristiano entre los siglos XI y XV](images/avance_cristiano.png)
+
 Tras las Navas de Tolosa, Castilla y Aragón siguen avanzando y conquistando la Península:
 
 Es con **Fernando III** el Santo cuando **Castilla** lidere el avance por **Andalucía**: se van a conquistar Córdoba (1236), Murcia (1243), Jaén (1246) o Sevilla (1248). El sucesor de Fernando III será **Alfonso X el Sabio**, uno de los reyes más importantes del periodo medieval; con él se conquista Cádiz. Por tanto, en torno al 1270, sólo quedaba en poder de los musulmanes el reino de Granada (a mediados del siguiente siglo se toma Algeciras).
