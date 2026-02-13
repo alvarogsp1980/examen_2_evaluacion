@@ -130,11 +130,15 @@ A finales de la Edad Media, el mapa de la península Ibérica estaba formado por
 
 A medida que los reinos cristianos se expandían hacia el sur y conquistaban tierras que antes habían pertenecido a los musulmanes, se planteaba la cuestión de cómo **repoblarlas**.
 
+![Sistemas de repoblación](images/sistemas_de_replobacion.png)
+
 El primer sistema, utilizado hasta la línea del Duero, fue el de la **presura**, la ocupación libre y espontánea de la tierra por los cristianos (campesinos, monasterios y nobles), que se convertían así en propietarios. La administración del territorio se organizó en distritos en torno a castillos, gobernados por delegados del rey o del conde. Estos, junto con los habitantes del distrito, tenían la obligación de defenderlo.
 
 Posteriormente, para los valles del Duero, del Tajo y del Ebro se acudió a la **repoblación concejil**. En este sistema, el territorio conquistado se dividía en **concejos o municipios**, formados por una **villa o ciudad amurallada y un término municipal o alfoz. Cada concejo recibía del rey un fuero o ley**, que recogía los deberes, derechos y privilegios de sus habitantes (la ayuda militar que debían prestar al rey, los impuestos a pagar, el permiso para celebrar ferias o mercados, etc). Los repobladores recibían una casa, o solar, y tierras cuyo tamaño dependía de la capacidad para hacer la guerra.
 
 En la zona centro-este de España, principalmente en Castilla-La Mancha y el interior de Valencia, la repoblación se encomendó a las **órdenes militares**. En estas zonas, fronterizas, peligrosas y de escasa población, las órdenes militares, formadas por **monjes-guerreros**, recibieron extensos territorios, **encomiendas** (por lo que al frente de las cuales estaba un caballero de la orden con el cargo de **comendador**). A cambio, debían defender el territorio asignado y fomentar su poblamiento.
+
+![Las órdenes militares](images/ordenes_militares.png)
 
 Por último, en Andalucía, Murcia, la costa valenciana y las islas Baleares, conquistadas por los cristianos más tarde, se empleó el **sistema del repartimiento**; es decir, el territorio se repartió de forma proporcional a la participación en la conquista. Así, los nobles recibieron grandes propiedades, y las gentes del común, pequeños lotes de tierra.
 
@@ -148,7 +152,11 @@ El gobierno de los reinos cristianos peninsulares recayó en **reyes**. Estos te
 
 Para gobernar los territorios el rey se apoyó del **Consejo Real**, que estaba formado por algunos miembros del clero (obispos, órdenes militares) y de la nobleza. A partir de finales del **siglo XII en León (primer ejemplo de parlamentarismo de Europa occidental)**, y en el siglo XIII en los demás reinos peninsulares, los reyes incorporaron a este Consejo a los burgueses ricos designados por las ciudades: nacían las **Cortes, asambleas formadas por representantes de los tres estamentos**. La función de las Cortes era discutir y votar las peticiones económicas que realizaba el rey (dinero para campañas militares o aprobación de un nuevo impuesto); a cambio; el rey se comprometía a tener en cuenta las peticiones de los diferentes estamentos.
 
+![El rey Jaime I preside las Cortes en Cataluña (1242)](images/jamiei_cortes_cataluna.png)
+
 Por último, **la autoridad del rey de Castilla siempre fue mayor que la de Aragón**. Castilla estaba formada por un sólo reino; mientras que Aragón no, ya que era una **unión de reinos** (Cataluña, Valencia, Baleares, Aragón), por eso el rey se veía obligado a tener la aprobación de las Cortes de cada uno de estos territorios (a excepción de Baleares, que no tenía Cortes). Es lo que se conoce como **pactismo**.
+
+![Alfonso X el Sabio](images/alfonso_x_el_sabio.png)
 
 En conclusión, a diferencia de las Cortes actuales, estos primeros parlamentos no tenían capacidad de crear y aprobar leyes o de controlar la gestión del gobernante.
 
@@ -160,14 +168,22 @@ En los reinos cristianos peninsulares se impuso pronto la **sociedad estamental*
 
 **La nobleza y el clero constituían los estamentos privilegiados**. Como tales, disfrutaban de privilegios (no trabajar, no pagar impuestos, ser juzgados por sus propias leyes). No obstante, estos dos grupos no eran homogéneos, teniéndose que diferenciar entre alta y baja nobleza, así como alto y bajo clero. Las diferencias de riqueza marcaban estas diferencias internas.
 
+![Los estementos privilegiados](images/estamentos_privilegiados.png)
+
 En los **no privilegiados**, los **campesinos** eran, sin duda, el sector mayoritario; trabajaban las tierras, por lo general, ajenas. Tenían, por ello, una gran dependencia de la nobleza y clero, propietarios de las tierras. En la Edad Media protagonizaron importantes **revueltas**.
 
+![Los estementos no privilegiados](images/estamentos_no_privilegiados.png)
+
 También entre el sector no privilegiado encontramos a los distintos **grupos sociales que poblaban las ciudades**: aquí encontramos un grupo que, al ser rico, vivía en condiciones similares a la nobleza, ya que eran **dueños de los gremios o grandes rebaños**. Luego, existía un grupo intermedio formado por **pequeños comerciantes** y, finalmente, los **asalariados**, que trabajaban en unas condiciones que rozaban la miseria.
+
+![Los bordadores](images/bordadores.png)
 
 Por último, tenemos a los **marginados** de la sociedad **(mendigos, gentes sin oficio, etc.)**, que se asentaban, sobre todo, en las ciudades. Y no podemos olvidarnos de las minorías religiosas, en donde encontramos a la **población no cristiana**:
 
 • **Judíos**: vivían en barrios urbanos propios, las juderías, y se dedicaban al préstamo, a la medicina, a ocupar importantes cargos funcionarios o a ser artesanos especializados; **serían expulsados de la Península en el 1492 por los Reyes Católicos**.
 
 • **También encontramos a los musulmanes que vivían en territorio cristiano: los mudéjares**. Vivían en morerías y se dedicaban al trabajo de la tierra o a la artesanía, aunque es cierto que destacaron importantes especialistas en el estilo artístico mudéjar (arquitectos).
+
+![Los judios y mudéjares](images/judios_mudejares.png)
 
 ---
