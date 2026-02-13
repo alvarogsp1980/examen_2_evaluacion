@@ -134,8 +134,8 @@ A finales de la Edad Media, el mapa de la península Ibérica estaba formado por
 - La **Corona de Aragón** estaría compuesta por **Aragón, Cataluña, Valencia y Baleares**. Además, comenzará a tener una importante **expansión por el Mediterráneo, haciéndose con Cerdeña, Sicilia** y, en el siglo XV, **Nápoles**.
 
     <p align="center">
-        <img src="images/corona_aragon_sigloxiii_xv.png" alt="Corona de Aragón (siglox XIII - XV)"><br>
-        <em>Corona de Aragón (siglox XIII - XV)</em>
+        <img src="images/corona_aragon_sigloxiii_xv.png" alt="Corona de Aragón (siglos XIII - XV)"><br>
+        <em>Corona de Aragón (siglos XIII - XV)</em>
     </p>
 
 - **Navarra** no pudo proseguir su expansión territorial, al quedar bloqueada entre Aragón y Castilla y quedarse sin frontera con los musulmanes. A finales de la Edad Media y comienzos de la Edad Moderna habrá disputas por este reino entre **Castilla y Francia**.
