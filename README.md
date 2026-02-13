@@ -130,11 +130,11 @@ A finales de la Edad Media, el mapa de la península Ibérica estaba formado por
 
 A medida que los reinos cristianos se expandían hacia el sur y conquistaban tierras que antes habían pertenecido a los musulmanes, se planteaba la cuestión de cómo **repoblarlas**.
 
-![Sistemas de repoblación](images/sistemas_de_replobacion.png)
-
 El primer sistema, utilizado hasta la línea del Duero, fue el de la **presura**, la ocupación libre y espontánea de la tierra por los cristianos (campesinos, monasterios y nobles), que se convertían así en propietarios. La administración del territorio se organizó en distritos en torno a castillos, gobernados por delegados del rey o del conde. Estos, junto con los habitantes del distrito, tenían la obligación de defenderlo.
 
 Posteriormente, para los valles del Duero, del Tajo y del Ebro se acudió a la **repoblación concejil**. En este sistema, el territorio conquistado se dividía en **concejos o municipios**, formados por una **villa o ciudad amurallada y un término municipal o alfoz. Cada concejo recibía del rey un fuero o ley**, que recogía los deberes, derechos y privilegios de sus habitantes (la ayuda militar que debían prestar al rey, los impuestos a pagar, el permiso para celebrar ferias o mercados, etc). Los repobladores recibían una casa, o solar, y tierras cuyo tamaño dependía de la capacidad para hacer la guerra.
+
+![Sistemas de repoblación](images/sistemas_de_replobacion.png)
 
 En la zona centro-este de España, principalmente en Castilla-La Mancha y el interior de Valencia, la repoblación se encomendó a las **órdenes militares**. En estas zonas, fronterizas, peligrosas y de escasa población, las órdenes militares, formadas por **monjes-guerreros**, recibieron extensos territorios, **encomiendas** (por lo que al frente de las cuales estaba un caballero de la orden con el cargo de **comendador**). A cambio, debían defender el territorio asignado y fomentar su poblamiento.
 
