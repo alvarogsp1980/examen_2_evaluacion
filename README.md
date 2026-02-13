@@ -134,7 +134,9 @@ El primer sistema, utilizado hasta la línea del Duero, fue el de la **presura**
 
 Posteriormente, para los valles del Duero, del Tajo y del Ebro se acudió a la **repoblación concejil**. En este sistema, el territorio conquistado se dividía en **concejos o municipios**, formados por una **villa o ciudad amurallada y un término municipal o alfoz. Cada concejo recibía del rey un fuero o ley**, que recogía los deberes, derechos y privilegios de sus habitantes (la ayuda militar que debían prestar al rey, los impuestos a pagar, el permiso para celebrar ferias o mercados, etc). Los repobladores recibían una casa, o solar, y tierras cuyo tamaño dependía de la capacidad para hacer la guerra.
 
-![Sistemas de repoblación](images/sistemas_de_replobacion.png)
+<p align="center">
+  <img src="images/sistemas_de_repoblacion.png" alt="Sistemas de repoblación">
+</p>
 
 En la zona centro-este de España, principalmente en Castilla-La Mancha y el interior de Valencia, la repoblación se encomendó a las **órdenes militares**. En estas zonas, fronterizas, peligrosas y de escasa población, las órdenes militares, formadas por **monjes-guerreros**, recibieron extensos territorios, **encomiendas** (por lo que al frente de las cuales estaba un caballero de la orden con el cargo de **comendador**). A cambio, debían defender el territorio asignado y fomentar su poblamiento.
 
