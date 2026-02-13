@@ -14,9 +14,9 @@ Durante esta época, la evolución de al-Ándalus pasó por tres periodos: los r
 
 Cada reino taifa comprendía una ciudad principal y el territorio de alrededor, y estuvo dominado por un determinado grupo étnico:
 
-— Los **árabes**, en Córdoba, Sevilla, Badajoz, Toledo, Zaragoza y Murcia.
-— Los **musulmanes** de origen eslavo, en el este peninsular.
-— Los **bereberes**, en Málaga y Sevilla.
+- Los **árabes**, en Córdoba, Sevilla, Badajoz, Toledo, Zaragoza y Murcia.
+- Los **musulmanes** de origen eslavo, en el este peninsular.
+- Los **bereberes**, en Málaga y Sevilla.
 
 Los estados cristianos del norte aprovecharon su debilidad, primero, para cobrarles tributos o parias a cambio de la paz; y, luego, para atacarlos. Así, Alfonso VI de León conquistó Toledo (1085).
 
@@ -48,11 +48,11 @@ Desde 1238, y hasta su desaparición en 1492, el territorio andalusí quedó red
 
 ### La evolución artística
 
-— El **arte de los primeros reinos de taifas** se caracterizó por el empleo de materiales pobres, como el ladrillo; el uso del yeso en revestimientos decorativos; y la utilización de arcos muy variados, como mixtilíneos y de herradura apuntada. Las realizaciones artísticas principales de este periodo fueron el **palacio de la Aljafería de Zaragoza**, con una rica decoración; y la **alcazaba de Málaga**, una fortificación palaciega donde residían los reyes y los gobernadores.
+- El **arte de los primeros reinos de taifas** se caracterizó por el empleo de materiales pobres, como el ladrillo; el uso del yeso en revestimientos decorativos; y la utilización de arcos muy variados, como mixtilíneos y de herradura apuntada. Las realizaciones artísticas principales de este periodo fueron el **palacio de la Aljafería de Zaragoza**, con una rica decoración; y la **alcazaba de Málaga**, una fortificación palaciega donde residían los reyes y los gobernadores.
 
-— Los **almorávides** apenas dejaron manifestaciones artísticas en la Península. La más destacada es el castillo de Monteagudo, en Murcia.
+- Los **almorávides** apenas dejaron manifestaciones artísticas en la Península. La más destacada es el castillo de Monteagudo, en Murcia.
 
-— Los **almohades** impulsaron una arquitectura sencilla y austera. Sus realizaciones artísticas principales fueron la **Giralda de Sevilla**, alminar de la mezquita mayor de la ciudad decorada con la típica sebka o red de rombos almohade, y la **Torre del Oro**, edificio defensivo poligonal, rematado en almenas, situado a orillas del Guadalquivir.
+- Los **almohades** impulsaron una arquitectura sencilla y austera. Sus realizaciones artísticas principales fueron la **Giralda de Sevilla**, alminar de la mezquita mayor de la ciudad decorada con la típica sebka o red de rombos almohade, y la **Torre del Oro**, edificio defensivo poligonal, rematado en almenas, situado a orillas del Guadalquivir.
 
 ---
 
@@ -72,15 +72,15 @@ La **economía** nazarí, en cambio, alcanzó una gran prosperidad. Se basó en 
 
 En este periodo, la principal obra arquitectónica fue la **Alhambra** de Granada, una fortaleza palacio que recibe su nombre del color rojizo de sus muros. Consta de varias partes.
 
-— La **alcazaba**, realizada en el siglo XIII por Alhamar, el fundador de la dinastía nazarí, es un recinto fortificado donde se localizaba la guarnición militar. Consta de murallas y torres defensivas, como la torre del Homenaje y la torre de la Vela. La alcazaba conectaba con el **Generalife**, finca de recreo con jardines edificada por Muhammad II.
+- La **alcazaba**, realizada en el siglo XIII por Alhamar, el fundador de la dinastía nazarí, es un recinto fortificado donde se localizaba la guarnición militar. Consta de murallas y torres defensivas, como la torre del Homenaje y la torre de la Vela. La alcazaba conectaba con el **Generalife**, finca de recreo con jardines edificada por Muhammad II.
 
-— La **Casa Real**, realizada en el siglo XIV, incluye dos palacios reales encargados por Yusuf I y Mohamed V. Construidos con materiales pobres, tienen paredes decoradas con cerámica y paneles de yeso, y techumbres de madera o de mocárabes. Los palacios constaban de dos cuartos o conjunto de habitaciones en torno a patios, con fuentes y jardines.
+- La **Casa Real**, realizada en el siglo XIV, incluye dos palacios reales encargados por Yusuf I y Mohamed V. Construidos con materiales pobres, tienen paredes decoradas con cerámica y paneles de yeso, y techumbres de madera o de mocárabes. Los palacios constaban de dos cuartos o conjunto de habitaciones en torno a patios, con fuentes y jardines.
 
 • El **Cuarto de Comares** era la parte pública. Sus dependencias se organizaban en torno al patio de los Arrayanes, destacando la sala para administrar justicia, o Mexuar, y el salón de Embajadores.
 
 • El **Cuarto de los Leones** era la parte privada. Se disponía en torno al patio de los Leones, y encerraba el harén y los aposentos privados del califa.
 
-— El conjunto se completaba con una **ciudad palatina**, o barrio administrativo con casas, mezquitas, baños públicos y cementerio; y se rodeaba por un **recinto amurallado**, comunicado con el exterior a través de grandes puertas como la puerta de la Justicia.
+- El conjunto se completaba con una **ciudad palatina**, o barrio administrativo con casas, mezquitas, baños públicos y cementerio; y se rodeaba por un **recinto amurallado**, comunicado con el exterior a través de grandes puertas como la puerta de la Justicia.
 
 ---
 
@@ -100,7 +100,11 @@ Tras las Navas de Tolosa, Castilla y Aragón siguen avanzando y conquistando la 
 
 Es con **Fernando III** el Santo cuando **Castilla** lidere el avance por **Andalucía**: se van a conquistar Córdoba (1236), Murcia (1243), Jaén (1246) o Sevilla (1248). El sucesor de Fernando III será **Alfonso X el Sabio**, uno de los reyes más importantes del periodo medieval; con él se conquista Cádiz. Por tanto, en torno al 1270, sólo quedaba en poder de los musulmanes el reino de Granada (a mediados del siguiente siglo se toma Algeciras).
 
+![El avance cristiano Fernando III y Alfonso X el Sabio](images/fernandoiii_alfonsox.png)
+
 Respecto a **Aragón**, es con el reinado de **Jaime I** cuando se van a dar una serie de victorias importantes en la década de 1230, que supondrán la conquista de **Baleares y Valencia**. Respecto a Murcia, fueron los castellanos quienes lograron su reconquista; pero Aragón alegó sus derechos sobre este territorio. La solución llegó por vía diplomática: Castilla ocupó la mayor parte del reino, pero la zona alicantina se incorporó a la Corona de Aragón.
+
+![El avance cristiano Jaime I](images/jaimei.png)
 
 ---
 
@@ -108,13 +112,17 @@ Respecto a **Aragón**, es con el reinado de **Jaime I** cuando se van a dar una
 
 A finales de la Edad Media, el mapa de la península Ibérica estaba formado por **cinco reinos independientes**: Castilla, Aragón, Navarra, Portugal y el nazarí de Granada. Los cuatro primeros eran cristianos, mientras que Granada era el último reino musulmán.
 
-— **Fernando III**, para la **Corona de Castilla, unió en un solo reino Castilla y León en 1230**. Castilla **comprendería también Extremadura, toda Andalucía (a partir de 1492)** y Murcia. Además, a lo largo de la Baja Edad Media Castilla comenzaría la **conquista de las Canarias** (Lanzarote, Fuerteventura, la Gomera y el Hierro); más tarde se haría con **Gibraltar (1462)**.
+- **Fernando III**, para la **Corona de Castilla, unió en un solo reino Castilla y León en 1230**. Castilla **comprendería también Extremadura, toda Andalucía (a partir de 1492)** y Murcia. Además, a lo largo de la Baja Edad Media Castilla comenzaría la **conquista de las Canarias** (Lanzarote, Fuerteventura, la Gomera y el Hierro); más tarde se haría con **Gibraltar (1462)**.
 
-— La **Corona de Aragón** estaría compuesta por **Aragón, Cataluña, Valencia y Baleares**. Además, comenzará a tener una importante **expansión por el Mediterráneo, haciéndose con Cerdeña, Sicilia** y, en el siglo XV, **Nápoles**.
+![Los cinco reinos independientes de la península](images/los_cinco_reinos_independientes.png)
 
-— **Navarra** no pudo proseguir su expansión territorial, al quedar bloqueada entre Aragón y Castilla y quedarse sin frontera con los musulmanes. A finales de la Edad Media y comienzos de la Edad Moderna habrá disputas por este reino entre **Castilla y Francia**.
+- La **Corona de Aragón** estaría compuesta por **Aragón, Cataluña, Valencia y Baleares**. Además, comenzará a tener una importante **expansión por el Mediterráneo, haciéndose con Cerdeña, Sicilia** y, en el siglo XV, **Nápoles**.
 
-— **Portugal** se independizó de León en 1143. A partir de ese momento inició su propia expansión territorial hacia el sur, terminando su expansión en el siglo XIII.
+![Corona de Aragón (siglox XIII - XV)](images/corona_aragon_sigloxiii_xv.png)
+
+- **Navarra** no pudo proseguir su expansión territorial, al quedar bloqueada entre Aragón y Castilla y quedarse sin frontera con los musulmanes. A finales de la Edad Media y comienzos de la Edad Moderna habrá disputas por este reino entre **Castilla y Francia**.
+
+- **Portugal** se independizó de León en 1143. A partir de ese momento inició su propia expansión territorial hacia el sur, terminando su expansión en el siglo XIII.
 
 ---
 
