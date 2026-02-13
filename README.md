@@ -90,6 +90,8 @@ En este periodo, la principal obra arquitectónica fue la **Alhambra** de Granad
 
 Ya en el **siglo XII** hay que ver todo lo que sucede en la península Ibérica a partir de la **Corona de Castilla y la Corona de Aragón, que comandarán la conquista final de la Península** aprovechando los problemas internos de los musulmanes. Por su parte Navarra no tendrá cambios en sus fronteras. Así debemos destacar las siguientes conquistas: en primer lugar, Castilla, con Alfonso VI y la conquista de **Toledo** en 1085, y, posteriormente, **Cuenca** en 1177; por parte de Aragón, la conquista de **Zaragoza** en 1118.
 
+![La Reconquista](images/reconquista.png)
+
 Tras su victoria en Alarcos en 1195, en 1211 los musulmanes amenazaban Toledo. Ante esta delicada situación, **Alfonso VIII**, rey de Castilla, no duda en otorgar el carácter de **cruzada** a la ofensiva a acometer ante los musulmanes, y así proteger Toledo y las fronteras del Tajo. Alfonso VIII solicita ayuda al resto de los reinos cristianos de la Península y al **papa Inocencio III**; de esta manera llegarán **cruzados** de toda Europa. El 19 de julio de **1212** salen de Toledo las huestes cristianas tomando distintos territorios hasta llegar al lugar en el que tendrá lugar la batalla que marcará un antes y un después en la Reconquista: **Las Navas de Tolosa**. Los cristianos vencerán, marcando el inicio de una expansión ya definitiva e inevitable de los reinos cristianos por toda la Península.
 
 Tras las Navas de Tolosa, Castilla y Aragón siguen avanzando y conquistando la Península:
